@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2-18",
-  "notes": "Dreammade developer build 0.1.2-18",
-  "pub_date": "2026-06-18T00:48:13.575Z",
+  "version": "0.1.2-19",
+  "notes": "Dreammade developer build 0.1.2-19",
+  "pub_date": "2026-06-18T00:58:43.335Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbE5zaGd0elJPK2t0bmFtSFI3L3J6RHpVWlJiV1dzWWpCMFE2ZDZOSUJ1NHpxc09tN0t2NDZxOU1pSkVMdnpDYWdmcXMrcTBXcjJ5T3I3WXgyMTV1c1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzQzNjkxCWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi0xOF94NjQtc2V0dXAuZXhlCi9ONTNlU3RmWlkrdk9adG56NVdzYTBPQ2NSbTFzZytxMEU3OHA0QnB0b3lkSXFGMEF6OVRWQi9NUGtrUmhSUGpTYlRVYnVwTnhvRWh6RlVWMW00K0RRPT0K",
-      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/developer/Dreammade-CAD-developer-0.1.2-18-windows-x86_64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbEVibllNOXBhbGllMWhjUUNKQmJGOEg5UXVwMFhPTWJlNnJ5NkJ3QWx5bWlJZjAvNW90YXpLbzMyaVFjYzNQN1ZFMTc3TnlIdDFYSStiMWh5anhXVnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzQ0MzIwCWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi0xOV94NjQtc2V0dXAuZXhlCkhWMTc2Z0pReHFwYWw2OUMxSWcySWtXNy9sU1F2SVFzM3E3eDVBalhSUTFsWno0eXdOZEtKdHg1ZXNyZTljMVJ5dzNZUUdkQ3BqREpoY0ZPN3ViM0FRPT0K",
+      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/developer/Dreammade-CAD-developer-0.1.2-19-windows-x86_64.exe"
     }
   }
 }
