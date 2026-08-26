@@ -1,13 +1,13 @@
 {
-  "version": "0.1.2-2",
-  "notes": "Dreammade Official Windows 0.1.2-2. Install this update to keep using the app.",
-  "pub_date": "2026-08-21T13:51:15.000Z",
+  "version": "0.1.2-3",
+  "notes": "Dreammade Official Windows 0.1.2-3. Install this update to keep using the app.",
+  "pub_date": "2026-08-26T16:38:24.000Z",
   "required": true,
-  "minVersion": "0.1.2-2",
+  "minVersion": "0.1.2-3",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbE15dlA1c3hSUW1VZExjK01YS25SY1lERGpCeUp0M2JKM0ZEYTBReXpTbE1adEVsUGtodXJXZlZ1RFVkZmlYY3NuYjFFekgxTW5oYkVrZmlMZmZDMEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzE3MzA1CWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi0yX3g2NC1zZXR1cC5leGUKWm9TQXVLNXZZYTJVV2ZIUUx3bkw5NzhSVXlmUkcvb0pVRTBPNVpObytzK3FuM0t6TWc2eEEvcEZOdkFsRW8rWHBIekEvSkNBaExJU1U1V2dLQStRRHc9PQo=",
-      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-2-windows-x86_64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbE5oNHhTUmIzUjRhMkhLaHg1RzVhdjlFOUF4ckhnc0wySGNQeVNXdk02VnVnQjZGeWhGWlpXR1JJbzVOK0c1K3cybTNTaTY1VTdZRVg5bkk1cnVIOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzQ0NTkzCWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi0zX3g2NC1zZXR1cC5leGUKRlRtNThXWlpuTFdMeUE3TVQvQkN1L1RjV05OMW1CSEVSMlh4WUkyZ2szeGNFUzhLQ01BQTJFUkZsa3NCR3JDVVUzZWlLNFVwOXNsVVphN09CT2lmREE9PQo=",
+      "url": "https://github.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/releases/download/v0.1.2-3-official-windows/Dreammade-CAD-windows-setup.exe"
     }
   }
 }
