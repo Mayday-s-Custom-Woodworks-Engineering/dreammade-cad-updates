@@ -1,13 +1,13 @@
 {
-  "version": "0.1.2-3",
-  "notes": "Dreammade Official 0.1.2-3. Install this update to keep using the app.",
-  "pub_date": "2026-08-27T10:34:38.149Z",
+  "version": "0.1.2-4",
+  "notes": "Dreammade Official 0.1.2-4. Install this update to keep using the app.",
+  "pub_date": "2026-08-31T16:41:59.207Z",
   "required": true,
-  "minVersion": "0.1.2-3",
+  "minVersion": "0.1.2-4",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbE5oNHhTUmIzUjRhMkhLaHg1RzVhdjlFOUF4ckhnc0wySGNQeVNXdk02VnVnQjZGeWhGWlpXR1JJbzVOK0c1K3cybTNTaTY1VTdZRVg5bkk1cnVIOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzQ0NTkzCWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi0zX3g2NC1zZXR1cC5leGUKRlRtNThXWlpuTFdMeUE3TVQvQkN1L1RjV05OMW1CSEVSMlh4WUkyZ2szeGNFUzhLQ01BQTJFUkZsa3NCR3JDVVUzZWlLNFVwOXNsVVphN09CT2lmREE9PQo=",
-      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-3-windows-x86_64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbEVKS3UwRlhDMXQ2VG5OQ3A1N3pEbWc4MjF2WTdrQmZlbXBBd0ZJTmFRZ2VBaDFBQmFtblJuRFlER1JnOTVkdEVyY1gyRTE5Wk15WnFSUW5Sem9jd1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTk0NDMzCWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi00X3g2NC1zZXR1cC5leGUKNzRHdFlOZnJJdVNmVWVpVjRIVWRpRld0OUg5SVZTdXhnS1NXNDBjQVgzdVV6aTBTemJLbkMydVFmc0pmWDRmOWluSWprdk1nSTloMUZJVG5TcGNqQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-4-windows-x86_64.exe"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbENQU2lWd3lDY2NPeWd2MkhDVHkzc2UzakdTekhpd3hLU3QyT3dFa0ZhNmo2dW8xRTV5aWFmSkp6UjNXeDZ0VEFFekdkaEtPaTFsNU9CM21uTFZFdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODI5MjgyCWZpbGU6RHJlYW1tYWRlIENBRC5hcHAudGFyLmd6Ck1NT2ZaZ1lzZkI4Z1hCTmt1YkJRczJVSk5KcXJGMlRncXA4dFRmOFpVTXp3eUh6M2pXMVdJa2JMejREKzJuZ05RbXIxRWlzQktPby90MzVFT0hDc0RRPT0K",
