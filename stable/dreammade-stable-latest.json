@@ -8,10 +8,6 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbFBWMkVDNGovR1Z3VUYzSTlOcU9ibC8yUjJNTm9QWXU2WUtVRU4vVHhSYlo0NVNJV3RpbnRVeW5mQnlNZnNIWFZJY1RQVGF6WGRBeEtDMUVUanlyZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjEzNDY5CWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi01X3g2NC1zZXR1cC5leGUKUmpsOVlJMndtbTFIZHlSNnE5dmJ5NVlGR1VyWWdYMkZqV0JnTEZUOHpqbTBraHF0NGtIUHpDaDlXdUYwK21iNlorRVdrRStBMm1FNVJKdlZtNk5oQ1E9PQo=",
       "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-5-windows-x86_64.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa00wL1ZTK05HbElMRWxKSDJrUEZKY2J2VWs0Rkc0b2x4MUYycHE4c3pYRlhCYWorU0RYMkNBcjNlVFh1bCtKNmpmaUZ6UEpLckZoR2RvQUhEY28vSzFyZ2VlZHQvOFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTk0MDcwCWZpbGU6RHJlYW1tYWRlIENBRC5hcHAudGFyLmd6ClQxVlJRMkRseDRXTWU4eHo4T2o2ck1TZmZXOFFPRFkvVTk0ZmJmcXlIMXBLN2ZCemo1ZnpMbHBBRUtGK1R0b3hwRzRFM292a1FKU21ZV3NCeFQ1ZUNBPT0K",
-      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-4-darwin-aarch64.tar.gz"
     }
   }
 }
