@@ -1,17 +1,17 @@
 {
-  "version": "0.1.2-10",
-  "notes": "Dreammade Official 0.1.2-10. Install this update to keep using the app.",
-  "pub_date": "2026-09-07T06:44:41.000Z",
+  "version": "0.1.2-11",
+  "notes": "Dreammade Official 0.1.2-11. Install this update to keep using the app.",
+  "pub_date": "2026-09-07T09:12:23.000Z",
   "required": true,
-  "minVersion": "0.1.2-10",
+  "minVersion": "0.1.2-11",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3Y5eEcySXpHSklxOTFGTGJ2TDRHWEUvajZXemxVbjBnNDlZOGt5Q0tsdG9lQnFac3hLeE1VejNZSGFVNEk2Mi9lK1VMQjRQVGhtRllmQktuYlFjS3VRV25HdzNUdmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzYwMTgwCWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi0xMF94NjQtc2V0dXAuZXhlClBpY1FNemZzRDQ1QnJHTTVQTkR5VVRXMWtKOFlDOHhUYk1uK3h6NjNtQlZ1YlMwcmRlSXh1aHRQQ0ZMVGFhVjl1czJ5VUEzY09xdEpsM2owb0JmeEFnPT0K",
-      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-10-windows-x86_64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3Y5eEcySXpHSktpZGx5WklhQkczYmpQOWZTK091TXVkYXpMTVkxOWVHaUh0bWNSazJsZWdlbVBWUU40cFI0VHRqZDRwd2Q2NXVNT3hMa2lHR3JEWXBMVVVjWENlUUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzY4NDMyCWZpbGU6RHJlYW1tYWRlIENBRF8wLjEuMi0xMV94NjQtc2V0dXAuZXhlClVueURHc0V4THdzcGIwQ2pueTZTNGwvN2IxUjAxOTdSSCtHWlhsUjBSQUtiekUxeHZwOWoxekx3ZHlwR0xRNkdpK0JacVc1d3JJeVJ2bEFrMjY5cERnPT0K",
+      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-11-windows-x86_64.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3Y5eEcySXpHSkppM2ROaXplQ0s3djNxdDAreDFoM3IzbGMzZkxiSWtGcmR1M2Jwd0JqcFpPbldJNzlQOWZIOUYvY2w0MFBkcnp6SXg2cE93RHBMaUFsbnZ3cUdJOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzYwMTA3CWZpbGU6RHJlYW1tYWRlIENBRC5hcHAudGFyLmd6CmxveG1yTWNubE5oOERrazVaanBNUms0TEdrNDRVWTdUVFNudm91U1RXY0pvMjVVdEVKVkU4WnZaUlJEMzZCV3lSSjJwQjltWXNoZ3hmd2N2MnkvSUJRPT0K",
-      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-10-darwin-aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR3Y5eEcySXpHSkVZNG42MHBheGxwRjFrei9NY0JjWW1xbWY2elBCNmVFUFl0K0ZDK0RJOTloVVVyZWpmaW9PWDZ4djdnVG1zR01SM1kvbk44VGNYbTlralNuWjF2b0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzY4MjI3CWZpbGU6RHJlYW1tYWRlIENBRC5hcHAudGFyLmd6Ck1sV0d4MUNEUXZjK3hUcU41N0JQT0JvWXdlVzByaFUzdGFlb2ttdzB5dUNSY3FDcmVQTnBQNUcwTUw1eG1qMHB2RExnbk8rc2pRT3QxQXlDV0YvdUFnPT0K",
+      "url": "https://raw.githubusercontent.com/Mayday-s-Custom-Woodworks-Engineering/dreammade-cad-updates/main/stable/Dreammade-CAD-stable-0.1.2-11-darwin-aarch64.tar.gz"
     }
   }
 }
